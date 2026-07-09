@@ -12,5 +12,4 @@ I build things in hopes that they leave an impact — to me first, and hopefully
 - 🧰 Tools: figma, claude, vs code, a real notebook, soldering pen, esp32
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/himanshu-rawat) · [portfolio](https://himanshufr.vercel.app)
 
-built solo, no template · 京都 · マラネッロ
-browseruse-giveaway-himanshu
+built solo, no template · 京都 ·
