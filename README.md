@@ -11,6 +11,6 @@ I build things in hopes that they leave an impact — to me first, and hopefully
 - 🧠 Obsessed with: design, ai, formula 1
 - 🛠️ Stack: `typescript` `react` `next` `tailwind` `python` `supabase`
 - 🧰 Tools: figma, claude, vs code, a real notebook, soldering pen, esp32
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/himanshu-rawat) · [portfolio](https://himanshufr.me)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/himanshu-rawat-571614376/) · [portfolio](https://himanshufr.me)
 
 built solo, no template · 京都 ·
