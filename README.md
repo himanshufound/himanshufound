@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-himanshufr.me-ff9eb5?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshufr.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshufrfr/)
-[![Website](https://img.shields.io/badge/site-himanshufr.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://himanshufr.me)
 ![Profile views](https://komarev.com/ghpvc/?username=himanshufound&label=profile%20views&color=ff9eb5&style=for-the-badge)
 
 </div>
