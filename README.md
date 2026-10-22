@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-himanshufr.me-ff9eb5?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshufr.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshufrfr/)
-[![Website](https://img.shields.io/badge/site-himanshufr.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://himanshufr.tech)
+[![Website](https://img.shields.io/badge/site-himanshufr.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://himanshufr.me)
 ![Profile views](https://komarev.com/ghpvc/?username=himanshufound&label=profile%20views&color=ff9eb5&style=for-the-badge)
 
 </div>
@@ -27,7 +27,7 @@ I treat every project like a Grand Prix.
 | 🔭 | **[AImpact](https://aimpact.himanshufr.me)** | Catchafire, but agent-native. Nonprofits post small tasks, humans *or* AI agents claim and complete them, a human reviews before anything ships. REST API + native MCP server. |
 | 🩺 | **[PillyBot](https://pillybot.app)** | Medication & health, gently kept track of for people with dementia. Caregiver view, alerts, refill counts. |
 | 🏎️ | **[Slipstream](https://github.com/himanshufound/goodmaxgram)** | The silent co-driver. Surfaces the moments in F1 team radio where someone should have listened — arousal × valence joined to official lap telemetry. [Live demo](https://goodmaxgram.vercel.app) |
-| 🌱 | **[FocusFlow](https://flow-ten-azure.vercel.app)** | A quiet workbench for the ADHD brain. Claude-powered, chunked responses, live session timer. |
+| 🌱 | **[FocusFlow](https://flow.himanshufr.me)** | A quiet workbench for the ADHD brain. Claude-powered, chunked responses, live session timer. |
 
 ## 🧪 Open source
 
